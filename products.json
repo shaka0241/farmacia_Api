@@ -1,0 +1,165 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Paracetamol 500mg",
+        "category": "Medicamentos",
+        "description": "Analgésico y antipirético para el alivio del dolor y la fiebre.",
+        "price": 3.50,
+        "stock": 100
+      },
+      {
+        "id": 2,
+        "name": "Ibuprofeno 400mg",
+        "category": "Medicamentos",
+        "description": "Antiinflamatorio no esteroideo para el alivio del dolor y la inflamación.",
+        "price": 4.00,
+        "stock": 150
+      },
+      {
+        "id": 3,
+        "name": "Vitamina C 1000mg",
+        "category": "Suplementos",
+        "description": "Suplemento dietético para reforzar el sistema inmunológico.",
+        "price": 8.00,
+        "stock": 200
+      },
+      {
+        "id": 4,
+        "name": "Loratadina 10mg",
+        "category": "Medicamentos",
+        "description": "Antihistamínico para el alivio de alergias.",
+        "price": 5.00,
+        "stock": 120
+      },
+      {
+        "id": 5,
+        "name": "Crema Hidratante",
+        "category": "Cuidado",
+        "description": "Crema para la hidratación diaria de la piel.",
+        "price": 12.00,
+        "stock": 80
+      },
+      {
+        "id": 6,
+        "name": "Enjuague Bucal",
+        "category": "Higiene",
+        "description": "Enjuague bucal para una limpieza profunda y aliento fresco.",
+        "price": 6.50,
+        "stock": 50
+      },
+      {
+        "id": 7,
+        "name": "Aceite de Pescado",
+        "category": "Suplementos",
+        "description": "Suplemento de Omega-3 para la salud cardiovascular.",
+        "price": 15.00,
+        "stock": 70
+      },
+      {
+        "id": 8,
+        "name": "Shampoo Anticaspa",
+        "category": "Cuidado",
+        "description": "Shampoo para el tratamiento de la caspa.",
+        "price": 10.00,
+        "stock": 60
+      },
+      {
+        "id": 9,
+        "name": "Aspirina 100mg",
+        "category": "Medicamentos",
+        "description": "Anticoagulante y antiinflamatorio para el tratamiento del dolor y prevención de infartos.",
+        "price": 4.50,
+        "stock": 90
+      },
+      {
+        "id": 10,
+        "name": "Proteína en Polvo",
+        "category": "Suplementos",
+        "description": "Suplemento de proteína para apoyar el desarrollo muscular.",
+        "price": 25.00,
+        "stock": 40
+      },
+      {
+        "id": 11,
+        "name": "Jabón Líquido",
+        "category": "Higiene",
+        "description": "Jabón líquido para una limpieza suave de la piel.",
+        "price": 5.00,
+        "stock": 150
+      },
+      {
+        "id": 12,
+        "name": "Desodorante",
+        "category": "Higiene",
+        "description": "Desodorante antitranspirante de larga duración.",
+        "price": 7.00,
+        "stock": 110
+      },
+      {
+        "id": 13,
+        "name": "Mascarilla Facial",
+        "category": "Cuidado",
+        "description": "Mascarilla para el cuidado y rejuvenecimiento de la piel del rostro.",
+        "price": 3.00,
+        "stock": 130
+      },
+      {
+        "id": 14,
+        "name": "Jarabe para la Tos",
+        "category": "Medicamentos",
+        "description": "Jarabe para el alivio de la tos y la congestión.",
+        "price": 9.00,
+        "stock": 70
+      },
+      {
+        "id": 15,
+        "name": "Calcio + Vitamina D",
+        "category": "Suplementos",
+        "description": "Suplemento para fortalecer los huesos y mejorar la salud ósea.",
+        "price": 13.00,
+        "stock": 95
+      },
+      {
+        "id": 16,
+        "name": "Crema Antiedad",
+        "category": "Cuidado",
+        "description": "Crema para reducir los signos de envejecimiento de la piel.",
+        "price": 18.00,
+        "stock": 55
+      },
+      {
+        "id": 17,
+        "name": "Gotas Oculares",
+        "category": "Medicamentos",
+        "description": "Gotas para el alivio de la irritación y sequedad ocular.",
+        "price": 6.00,
+        "stock": 120
+      },
+      {
+        "id": 18,
+        "name": "Termómetro Digital",
+        "category": "Equipos",
+        "description": "Termómetro digital para medir la temperatura corporal.",
+        "price": 12.50,
+        "stock": 75
+      },
+      {
+        "id": 19,
+        "name": "Antibiótico Amoxicilina",
+        "category": "Medicamentos",
+        "description": "Antibiótico para el tratamiento de infecciones bacterianas.",
+        "price": 15.00,
+        "stock": 65
+      },
+      {
+        "id": 20,
+        "name": "Crema para Manos",
+        "category": "Cuidado",
+        "description": "Crema hidratante para el cuidado diario de las manos.",
+        "price": 5.50,
+        "stock": 140
+      }
+    ]
+  }
+  

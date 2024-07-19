@@ -1,0 +1,62 @@
+{
+    "home": {
+      "generalInfo": {
+        "name": "Farmacia Salud Total",
+        "description": "En Farmacia Salud Total, ofrecemos una amplia variedad de productos y servicios para satisfacer todas tus necesidades de salud. Nos enorgullece ser tu destino de confianza para medicamentos, productos de cuidado personal y servicios de laboratorio.",
+        "mission": "Brindar un servicio de atención al cliente excepcional, asesoramiento experto y productos de alta calidad para mejorar tu bienestar."
+      },
+      "providers": [
+        {
+          "name": "Proveedor 1",
+          "contactInfo": {
+            "phone": "123-456-7890",
+            "email": "contacto@proveedor1.com"
+          }
+        },
+        {
+          "name": "Proveedor 2",
+          "contactInfo": {
+            "phone": "098-765-4321",
+            "email": "contacto@proveedor2.com"
+          }
+        }
+      ],
+      "laboratories": [
+        {
+          "name": "Laboratorio ABC",
+          "services": [
+            "Análisis de sangre",
+            "Pruebas de glucosa",
+            "Perfil lipídico"
+          ],
+          "contactInfo": {
+            "phone": "234-567-8901",
+            "email": "contacto@laboratorioabc.com"
+          }
+        },
+        {
+          "name": "Laboratorio XYZ",
+          "services": [
+            "Examen de tiroides",
+            "Pruebas de función hepática",
+            "Exámenes de rutina"
+          ],
+          "contactInfo": {
+            "phone": "321-654-0987",
+            "email": "contacto@laboratorioxyz.com"
+          }
+        }
+      ],
+      "contactInfo": {
+        "address": "Calle Salud, 123, Ciudad, País",
+        "phone": "111-222-3333",
+        "email": "info@farmaciasaludtotal.com",
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/farmaciasaludtotal",
+          "twitter": "https://www.twitter.com/farmaciasaludtotal",
+          "instagram": "https://www.instagram.com/farmaciasaludtotal"
+        }
+      }
+    }
+  }
+  
